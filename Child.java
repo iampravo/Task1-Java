@@ -36,3 +36,5 @@ public class Child extends Parent{
         parent.display();
     }
 }
+
+//looks good
